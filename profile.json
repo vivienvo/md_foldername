@@ -1,0 +1,21 @@
+{
+  "first_name" : "Vivien",
+  "last_name" : "Vo",
+  "display_handle" : "vivvo",
+  "posts" : [
+    {
+      "description" : "instagram",
+      "link" : "https://instgram.com/vivvo"
+    },
+    {
+      "description" : "facebook",
+      "link" : "https://www.facebook.com/vivvo"
+    },
+    {
+      "description" : "twitter",
+      "link" : "http://www.twitter.com/vivvo"
+    }
+  ],
+  "age" : "24",
+  "active" : true
+}
